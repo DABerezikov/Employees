@@ -8,7 +8,7 @@ namespace Employees
 {
     internal static class Program
     {
-        private static void Main(string[] args)
+        private static void Main()
         {
             var host = Host.CreateDefaultBuilder()
                
